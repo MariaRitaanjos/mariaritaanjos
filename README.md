@@ -1,4 +1,4 @@
-## Oiii eu sou a  Maria Rita, dev e apaixonada por tecenologia!
+## Oiii! Eu sou a  Maria Rita, dev e apaixonada por tecnologia!
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
@@ -26,12 +26,13 @@
     </a>
     <br />
     <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    <a href="https://www.instagram.com/mritaanjos/">
+      <img src="https://tse2.mm.bing.net/th?id=OIP.HEr8Hjj6LeVlYrNYJ0LRuwHaHZ&pid=Api&P=0&h=50"/>
     </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/maria-rita-anjos-0a5b42200/">
+      <img src="https://tse1.mm.bing.net/th?id=OIP.GxjUYc51x1_bTXtuwIs-ZQHaGT&pid=Api&P=0&h=50"/>
+    
+  
   </p>
 
 
