@@ -14,6 +14,7 @@
 </div>
   
   </p>
+![Snake animation](https://github.com/MariaRitaanjos/MariaRitaanjos/blob/output/github-contribution-grid-snake.svg)
 
 
  
