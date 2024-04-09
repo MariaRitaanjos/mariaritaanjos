@@ -1,12 +1,12 @@
 ## Oiii! Eu sou a  Maria Rita, dev e apaixonada por tecnologia!
 
    
-    <br />
-    <a href="https://www.instagram.com/mritaanjos/">
-      <img src="https://tse2.mm.bing.net/th?id=OIP.HEr8Hjj6LeVlYrNYJ0LRuwHaHZ&pid=Api&P=0&h=50"/>
-    </a>
-    <a href="https://www.linkedin.com/in/maria-rita-anjos-0a5b42200/">
-      <img src="https://tse1.mm.bing.net/th?id=OIP.GxjUYc51x1_bTXtuwIs-ZQHaGT&pid=Api&P=0&h=50"/>
+ <div>
+
+<a href="https://instagram.com/seu-mritaanjos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@seu-mariarita.anjos124@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/maria-rita-anjos-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
     <div>
 <a href="https://github.com/MariaRitaanjos">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRitaanjos&layout=compact&langs_count=7&theme=dracula"/>
